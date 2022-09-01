@@ -1,0 +1,4 @@
+1. promise
+2. xmlhttprequest
+3. async / await
+4. asyncronus / syncronus
